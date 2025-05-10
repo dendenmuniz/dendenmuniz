@@ -1,4 +1,4 @@
-<img src="./assets/banner_github.png" alt="Denise Muniz - Software Developer banner" width="100%" />
+<img src="./assets/banner.gif" alt="Denise Muniz - Software Developer banner" width="100%" />
 <h3 align="left">Hi 👋! I'm Denise.<br><br>I'm a full-stack developer based in Sweden, with a background in business analysis and a love for solving real problems through code. I work mostly with TypeScript, Node.js, React, and SQL — and I’m currently diving deeper into Python, Django, cloud, and AI at a full-time bootcamp with Lexicon.<br><br>I'm passionate about engineering scalable systems, designing clean APIS, and improving backend performance. I also co-founded Beela, a non-profit helping immigrant women break into tech — something I’m really proud of.<br><br>Always learning, always building. Looking for backend or full-stack opportunities where I can grow and make an impact.</h3>
 
 ###
